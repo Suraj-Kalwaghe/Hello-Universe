@@ -1,8 +1,10 @@
 # Hello-Universe
 Readme before accessing.
 
-Pay 150 TRX to the following address thank you
-Address : TNk5CoBz6W9JiZPtu1X6wMNsx1t3dxNynr
+Pay 150 TRX to the following address 
 
-or pay 100 doge to this address
-Address : nhhXjgvNtbdnUamWqzNM36mp2brQodc52C
+> Address : TNk5CoBz6W9JiZPtu1X6wMNsx1t3dxNynr
+
+Alternatively pay 70 doge to this address
+
+>  Address : nhhXjgvNtbdnUamWqzNM36mp2brQodc52C
